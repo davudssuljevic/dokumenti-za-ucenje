@@ -21,6 +21,7 @@ header:hover {
 }
 
 header .logo {
+      border-radius: 15px;
     height: 45px;
     width: auto;
     transition: transform 0.3s ease-in-out;
